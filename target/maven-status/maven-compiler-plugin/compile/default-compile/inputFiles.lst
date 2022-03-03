@@ -1,0 +1,9 @@
+C:\Users\cramosra\OneDrive - NTT DATA EMEAL\CRR\Bootcamp\ProyectoFinal\B4-yanki-service\src\main\java\com\bank\yanki\service\model\Yanki.java
+C:\Users\cramosra\OneDrive - NTT DATA EMEAL\CRR\Bootcamp\ProyectoFinal\B4-yanki-service\src\main\java\com\bank\yanki\service\redis\Util\EntityDtoUtil.java
+C:\Users\cramosra\OneDrive - NTT DATA EMEAL\CRR\Bootcamp\ProyectoFinal\B4-yanki-service\src\main\java\com\bank\yanki\service\service\YankiServiceWithRedisCache.java
+C:\Users\cramosra\OneDrive - NTT DATA EMEAL\CRR\Bootcamp\ProyectoFinal\B4-yanki-service\src\main\java\com\bank\yanki\service\redis\YankiDto\YankiDto.java
+C:\Users\cramosra\OneDrive - NTT DATA EMEAL\CRR\Bootcamp\ProyectoFinal\B4-yanki-service\src\main\java\com\bank\yanki\service\controller\YankiController.java
+C:\Users\cramosra\OneDrive - NTT DATA EMEAL\CRR\Bootcamp\ProyectoFinal\B4-yanki-service\src\main\java\com\bank\yanki\service\YankiServiceApplication.java
+C:\Users\cramosra\OneDrive - NTT DATA EMEAL\CRR\Bootcamp\ProyectoFinal\B4-yanki-service\src\main\java\com\bank\yanki\service\service\IYankiService.java
+C:\Users\cramosra\OneDrive - NTT DATA EMEAL\CRR\Bootcamp\ProyectoFinal\B4-yanki-service\src\main\java\com\bank\yanki\service\repository\YankiRepository.java
+C:\Users\cramosra\OneDrive - NTT DATA EMEAL\CRR\Bootcamp\ProyectoFinal\B4-yanki-service\src\main\java\com\bank\yanki\service\service\YankiServiceWithNoCache.java

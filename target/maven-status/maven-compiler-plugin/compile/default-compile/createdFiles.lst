@@ -1,0 +1,9 @@
+com\bank\yanki\service\redis\YankiDto\YankiDto.class
+com\bank\yanki\service\service\YankiServiceWithNoCache.class
+com\bank\yanki\service\YankiServiceApplication.class
+com\bank\yanki\service\controller\YankiController.class
+com\bank\yanki\service\model\Yanki.class
+com\bank\yanki\service\service\IYankiService.class
+com\bank\yanki\service\repository\YankiRepository.class
+com\bank\yanki\service\redis\Util\EntityDtoUtil.class
+com\bank\yanki\service\service\YankiServiceWithRedisCache.class
