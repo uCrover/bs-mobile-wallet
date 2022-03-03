@@ -9,5 +9,5 @@ public class YankiServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(YankiServiceApplication.class, args);
 	}
-//NoNtest
+//NoNtestraa
 }
